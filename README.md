@@ -1,2 +1,0 @@
-# healthcare
-Created with CodeSandbox
